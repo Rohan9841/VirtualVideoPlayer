@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Datafiles/Scenes/ARBusinessCard.unity
+  isLoaded: 1
+  isActive: 1
