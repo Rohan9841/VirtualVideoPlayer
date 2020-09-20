@@ -14,3 +14,6 @@ This is a unty project for android app that allows user to play a video when a c
 #Built with:
 
 Unity, Visual Studio, Vuforia, c#
+
+#Demo link:
+https://youtu.be/9Di4ylCddX0
