@@ -1,6 +1,6 @@
 # VirtualVideoPlayer
 
-This is a unty project for android app that allows user to play a video when a certain picture is displayed. 
+This is a unity project for android devices that allows users to play a video when a certain picture is displayed.
 
 #Getting Started in Unity:
 1. Clone the repo 
